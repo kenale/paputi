@@ -44,6 +44,10 @@ p {
 a:visited {
     color: rgb(110, 153, 120); /* Change this to your desired color for visited links */
 }
+a:link {
+    color: rgb(110, 153, 120); /* Change this to your desired color for unvisited links */
+}
+
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 
 /*BODY*/
