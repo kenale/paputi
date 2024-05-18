@@ -47,6 +47,9 @@ a:visited {
 a:link {
     color: rgb(110, 153, 120); /* Change this to your desired color for unvisited links */
 }
+a:active {
+    color: rgb(110, 153, 120); /* Change this to your desired color for active links */
+}
 
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 
