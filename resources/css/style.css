@@ -99,7 +99,6 @@ body {
     flex-direction: row;
     flex: 2;
     column-gap: 20px;
-    background-color: transparent;
     width: 901px;
     margin: 50px auto;
     border-radius: 20px;
